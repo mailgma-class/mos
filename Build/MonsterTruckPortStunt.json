@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Monster Truck Port Stunt",
-"dataUrl": "MonsterTruckPortStunt.data.unityweb",
-"wasmCodeUrl": "MonsterTruckPortStunt.wasm.code.unityweb",
-"wasmFrameworkUrl": "MonsterTruckPortStunt.wasm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/mailgma-class/mos@main/build/MonsterTruckPortStunt.data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/mailgma-class/mos@main/build/MonsterTruckPortStunt.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/mailgma-class/mos@main/build/MonsterTruckPortStunt.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
